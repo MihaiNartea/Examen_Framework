@@ -253,5 +253,5 @@ Codul de validare a datelor se afla deja în metodele de salvare din controlerel
 
 ### 9. Screenshot
 
-    ![poza1](/storage/code-snapshot1.png)
-    ![poza2](/storage/code-snapshot2.png)
+![poza1](/storage/code-snapshot1.png)
+![poza2](/storage/code-snapshot2.png)
